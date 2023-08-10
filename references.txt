@@ -1,0 +1,8 @@
+Useful references:
+
+https://www.ibm.com/docs/en/qsip/7.4?topic=queries-berkeley-packet-filters
+
+https://scapy.readthedocs.io
+
+https://www.dasblinkenlichten.com/packet-actions-python-and-scapy/
+
